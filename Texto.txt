@@ -4,3 +4,9 @@ Puedes obtener un proyecto Git de dos maneras. La primera
 toma un proyecto o directorio existente y lo importa en Git. 
 La segunda clona un repositorio Git existente desde otro servidor.
 
+OPINION PERSONAL.
+Para la realización de proyectos grandes lo más apropiado es usar GIT 
+ya que nos ofrece gran cantidad de herramientas y nos da un gran rendimiento.
+ MERCURIAL es más beneficioso para proyectos pequeños y privados ya que nos permite 
+avanzar de forma más rápida y eficaz, sobre SVN una buena característica es que todo 
+el trabajo se agrupa en un solo lugar.
