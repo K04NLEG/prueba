@@ -4,4 +4,10 @@ Puedes obtener un proyecto Git de dos maneras. La primera
 toma un proyecto o directorio existente y lo importa en Git. 
 La segunda clona un repositorio Git existente desde otro servidor.
 
-2-
+Sistemas de control de versiones centralizados
+El siguiente gran problema que se encuentra la gente es que necesitan colaborar con 
+desarrolladores en otros sistemas. Para solventar este problema, se desarrollaron los 
+sistemas de control de versiones centralizados (Centralized Version Control Systems o CVCSs en inglés). 
+Estos sistemas, como CVS, Subversion, y Perforce, tienen un único servidor que contiene todos los archivos versionados,
+ y varios clientes que descargan los archivos desde ese lugar central. Durante muchos años éste ha sido el estándar para el 
+control de versiones (véase Figura 1-2).
