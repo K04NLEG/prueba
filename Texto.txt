@@ -1,0 +1,5 @@
+.1 Fundamentos de Git - Obteniendo un repositorio Git
+Obteniendo un repositorio Git
+Puedes obtener un proyecto Git de dos maneras. La primera 
+toma un proyecto o directorio existente y lo importa en Git. 
+La segunda clona un repositorio Git existente desde otro servidor.
