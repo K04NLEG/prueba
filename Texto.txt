@@ -1,12 +1,8 @@
-.1 Fundamentos de Git - Obteniendo un repositorio Git
-Obteniendo un repositorio Git
-Puedes obtener un proyecto Git de dos maneras. La primera 
-toma un proyecto o directorio existente y lo importa en Git. 
-La segunda clona un repositorio Git existente desde otro servidor.
+Control de versiones distribuidas:No es necesario un servidor central, 
+cada programador tiene una copia completa del repositorio en su equipo y 
+al hacer un cambio se propaga a todos los nodos
 
-OPINION PERSONAL.
-Para la realización de proyectos grandes lo más apropiado es usar GIT 
-ya que nos ofrece gran cantidad de herramientas y nos da un gran rendimiento.
- MERCURIAL es más beneficioso para proyectos pequeños y privados ya que nos permite 
-avanzar de forma más rápida y eficaz, sobre SVN una buena característica es que todo 
-el trabajo se agrupa en un solo lugar.
+cada copia tiene la misma 
+funcionalidad del servidor principal
+repositorio clonado puede intercambiar 
+las versiones con otros repositorios clonados
